@@ -2,7 +2,7 @@ DxLib-ClassicRayTracing
 ====
 
 ## Overview  
-古典的なレイトレーシングをDxLibで作りました。
+レイトレーシングっぽい何かをDxLibで作りました。
 
 ## Demo
 https://twitter.com/Techno1109/status/1207321074477621248?s=20  
